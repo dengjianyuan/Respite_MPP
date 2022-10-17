@@ -1,0 +1,115 @@
+preds,labels,SMILES,mol_prop,model_name,split_type,fold
+-3.3806839999999965,-6.15,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,ESOL,RF,scaffold_balanced,1
+-4.284388000000007,-6.905,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,ESOL,RF,scaffold_balanced,1
+-4.0265140000000095,-6.775,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,ESOL,RF,scaffold_balanced,1
+-4.060918000000011,-7.129,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc2cccc(Oc3ccccc3)c2,ESOL,RF,scaffold_balanced,1
+-3.9131719999999968,-7.44,CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,ESOL,RF,scaffold_balanced,1
+-3.390619999999998,-6.763,CC(C)=CC3C(C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C ,ESOL,RF,scaffold_balanced,1
+-4.633918000000007,-6.84,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2ccc(F)c(Oc3ccccc3)c2,ESOL,RF,scaffold_balanced,1
+-2.2586800000000027,-1.865,Cc3cc2nc1c(=O)[nH]c(=O)nc1n(CC(O)C(O)C(O)CO)c2cc3C,ESOL,RF,scaffold_balanced,1
+-3.987604000000001,-4.317,CC34CCC1C(CCc2cc(O)ccc12)C3CCC4(O)C#C ,ESOL,RF,scaffold_balanced,1
+-3.2353160000000045,-3.858,CC34CCC1C(CCc2cc(O)ccc12)C3CC(O)C4O ,ESOL,RF,scaffold_balanced,1
+-3.535420000000005,-4.138,CC12CCC3C(CCc4cc(O)ccc34)C2CCC1O,ESOL,RF,scaffold_balanced,1
+-3.450140000000003,-6.545,Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cccc2Cl,ESOL,RF,scaffold_balanced,1
+-3.673726000000013,-5.7620000000000005,Clc1ccc(cc1)c2cc(Cl)ccc2Cl ,ESOL,RF,scaffold_balanced,1
+-4.028226000000013,-7.343,Clc1ccc(c(Cl)c1)c2cc(Cl)c(Cl)c(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-4.218960000000007,-5.223,Clc1ccc(cc1Cl)c2ccccc2 ,ESOL,RF,scaffold_balanced,1
+-3.209767999999995,-4.984,Clc1cccc(Cl)c1c2ccccc2 ,ESOL,RF,scaffold_balanced,1
+-4.5670780000000155,-7.343,Clc1cc(Cl)c(cc1Cl)c2cc(Cl)c(Cl)cc2Cl ,ESOL,RF,scaffold_balanced,1
+-4.003772000000012,-6.627000000000002,Clc1ccc(c(Cl)c1)c2c(Cl)ccc(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-4.0053900000000136,-7.898,Clc1ccc(c(Cl)c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl,ESOL,RF,scaffold_balanced,1
+-3.922108000000016,-7.343,Clc1ccc(Cl)c(c1)c2cc(Cl)c(Cl)c(Cl)c2Cl,ESOL,RF,scaffold_balanced,1
+-3.717990000000002,-6.079,Clc1cccc(c1Cl)c2cccc(Cl)c2Cl,ESOL,RF,scaffold_balanced,1
+-3.834784000000016,-6.23,Clc1ccc(c(Cl)c1)c2cc(Cl)ccc2Cl ,ESOL,RF,scaffold_balanced,1
+-3.397884000000002,-5.142,Clc1ccc(cc1)c2ccccc2Cl ,ESOL,RF,scaffold_balanced,1
+-3.540070000000001,-4.685,c1c(Cl)cccc1c2ccccc2,ESOL,RF,scaffold_balanced,1
+-4.333802000000014,-8.468,Clc1cc(c(Cl)c(Cl)c1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl,ESOL,RF,scaffold_balanced,1
+-4.250204000000006,-6.709,Clc1ccc(c(Cl)c1)c2ccc(Cl)c(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-4.125509999999999,-7.192,Clc1ccc(c(Cl)c1Cl)c2ccc(Cl)c(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-4.329085999999993,-7.185,Clc1cccc(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-1.7481899999999968,-2.613,Nc1ccc(cc1)c2ccc(N)cc2,ESOL,RF,scaffold_balanced,1
+-4.321756000000004,-7.261,Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)cc(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-4.609798000000006,-8.304,Clc1cc(Cl)c(Cl)c(c1Cl)c2c(Cl)c(Cl)cc(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-4.216296000000004,-6.709,Clc1cc(Cl)c(cc1Cl)c2cccc(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-3.3720740000000013,-5.604,Clc1ccc(cc1)c2c(Cl)cccc2Cl ,ESOL,RF,scaffold_balanced,1
+-3.6750160000000056,-5.686,Clc1ccc(cc1)c2cccc(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-3.274784000000003,-4.984,Clc1ccccc1c2ccccc2Cl ,ESOL,RF,scaffold_balanced,1
+-3.311169999999996,-6.785,Clc2c(Cl)c(Cl)c(c1ccccc1)c(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-3.352679999999998,-5.915,Clc1cccc(Cl)c1c2c(Cl)cccc2Cl ,ESOL,RF,scaffold_balanced,1
+-3.8338520000000136,-5.7620000000000005,Clc1cccc(c1)c2cc(Cl)ccc2Cl ,ESOL,RF,scaffold_balanced,1
+-3.186219999999998,-4.5280000000000005,Clc1ccccc1c2ccccc2,ESOL,RF,scaffold_balanced,1
+-3.40478,-5.299,Clc1ccc(cc1)c2ccc(Cl)cc2 ,ESOL,RF,scaffold_balanced,1
+-3.8206920000000086,-6.155,Clc1ccc(Cl)c(c1)c2cccc(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-4.079795999999984,-9.589,Clc1c(Cl)c(Cl)c(c(Cl)c1Cl)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-4.318866000000015,-7.425,Clc1ccc(cc1Cl)c2cc(Cl)c(Cl)c(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-4.245885999999997,-7.746,Clc1ccc(c(Cl)c1Cl)c2c(Cl)cc(Cl)c(Cl)c2Cl ,ESOL,RF,scaffold_balanced,1
+-4.532644000000018,-6.312,Clc1ccc(Cl)c(c1)c2ccc(Cl)c(Cl)c2,ESOL,RF,scaffold_balanced,1
+-2.7122579999999954,-4.079,c1ccc(cc1)c2ccccc2,ESOL,RF,scaffold_balanced,1
+-3.9284040000000116,-7.178999999999999,Clc1cc(Cl)c(c(Cl)c1)c2c(Cl)cc(Cl)cc2Cl ,ESOL,RF,scaffold_balanced,1
+-2.9154259999999996,-4.424,Cc1ccc(cc1)c2ccccc2,ESOL,RF,scaffold_balanced,1
+-3.935454000000016,-7.898,Clc1ccc(Cl)c(c1)c2c(Cl)c(Cl)c(Cl)c(Cl)c2Cl,ESOL,RF,scaffold_balanced,1
+-2.0774879999999976,-3.701,Oc1ccc(cc1)c2ccccc2,ESOL,RF,scaffold_balanced,1
+-4.640607999999995,-4.533,ClC4=C(Cl)C5(Cl)C3C1CC(C2OC12)C3C4(Cl)C5(Cl)Cl,ESOL,RF,scaffold_balanced,1
+-3.143432,-3.882,CC34CCC1C(CCC2CC(O)CCC12C)C3CCC4=O,ESOL,RF,scaffold_balanced,1
+-3.143432,-3.882,CC12CCC(O)CC1CCC3C2CCC4(C)C3CCC4=O,ESOL,RF,scaffold_balanced,1
+-2.7032179999999966,-3.34,O=C1c2ccccc2C(=O)c3ccccc13,ESOL,RF,scaffold_balanced,1
+-2.646288,-2.421,CCC1(C(=O)NC(=O)NC1=O)C2=CCCCC2 ,ESOL,RF,scaffold_balanced,1
+-3.005467999999996,-2.251,Cc1cc(no1)C(=O)NNCc2ccccc2,ESOL,RF,scaffold_balanced,1
+-1.9336719999999972,-2.024,CC(=O)N(S(=O)c1ccc(N)cc1)c2onc(C)c2C ,ESOL,RF,scaffold_balanced,1
+-3.2029439999999814,-3.057,C1Cc2ccccc2C1,ESOL,RF,scaffold_balanced,1
+-5.3081180000000066,-6.0070000000000014,c1ccc2c3c(ccc2c1)c4cccc5cccc3c45,ESOL,RF,scaffold_balanced,1
+-0.3166540000000001,0.436,O=C1NC(=O)C(=O)C(=O)N1 ,ESOL,RF,scaffold_balanced,1
+-2.978260000000002,-2.591,CCC1(CCC(=O)NC1=O)c2ccccc2 ,ESOL,RF,scaffold_balanced,1
+-3.178426000000007,-5.533,CN(C=Nc1ccc(C)cc1C)C=Nc2ccc(C)cc2C,ESOL,RF,scaffold_balanced,1
+-2.657827999999995,-4.59,Oc1ccc(cc1)C2(OC(=O)c3ccccc23)c4ccc(O)cc4 ,ESOL,RF,scaffold_balanced,1
+-2.9328799999999973,-0.974,OCC3OC(OCC2OC(OC(C#N)c1ccccc1)C(O)C(O)C2O)C(O)C(O)C3O ,ESOL,RF,scaffold_balanced,1
+-0.894705999999999,0.919,C1(=O)NC(=O)NC(=O)C1(O)C2(O)C(=O)NC(=O)NC2(=O),ESOL,RF,scaffold_balanced,1
+-2.144697999999997,-1.72,C1CC=CC1,ESOL,RF,scaffold_balanced,1
+-3.0174960000000013,-0.975,OCC2OC(Oc1ccccc1CO)C(O)C(O)C2O,ESOL,RF,scaffold_balanced,1
+-1.1704999999999985,-2.398,CN1CC(O)N(C1=O)c2nnc(s2)C(C)(C)C,ESOL,RF,scaffold_balanced,1
+-3.9503040000000134,-3.958,COc2cc1c(N)nc(nc1c(OC)c2OC)N3CCN(CC3)C(=O)OCC(C)(C)O ,ESOL,RF,scaffold_balanced,1
+-1.9051039999999997,-0.847,Cn2c(=O)n(C)c1ncn(CC(O)CO)c1c2=O,ESOL,RF,scaffold_balanced,1
+-1.3185799999999988,-1.452,Cn1c(=O)n(C)c2nc[nH]c2c1=O,ESOL,RF,scaffold_balanced,1
+-1.1310639999999994,-1.05,Cn1cnc2n(C)c(=O)[nH]c(=O)c12 ,ESOL,RF,scaffold_balanced,1
+-1.546772,-1.4980000000000002,Cn1cnc2n(C)c(=O)n(C)c(=O)c12,ESOL,RF,scaffold_balanced,1
+-2.9495280000000004,-1.2919999999999998,c1c(O)C2C(=O)C3cc(O)ccC3OC2cc1(OC),ESOL,RF,scaffold_balanced,1
+-3.7497760000000087,-4.863,CC(=O)OC3(C)CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,ESOL,RF,scaffold_balanced,1
+-3.074048000000003,-3.172,CC34CC(O)C1(F)C(CCC2=CC(=O)CCC12C)C3CCC4(O)C(=O)CO ,ESOL,RF,scaffold_balanced,1
+-3.500944000000011,-3.939,CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO,ESOL,RF,scaffold_balanced,1
+-3.7669220000000116,-4.17,CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C,ESOL,RF,scaffold_balanced,1
+-3.6895200000000075,-4.449,CC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,ESOL,RF,scaffold_balanced,1
+-3.2677880000000057,-3.454,CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1C(=O)CO,ESOL,RF,scaffold_balanced,1
+-3.997434000000002,-2.669,CC34CCC1C(CCC2=CC(=O)CCC12O)C3CCC4(O)C#C,ESOL,RF,scaffold_balanced,1
+-3.6019920000000045,-3.159,CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C2CCC1(O)C(=O)CO,ESOL,RF,scaffold_balanced,1
+-3.9288580000000066,-4.87,CCC(=O)OC3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,ESOL,RF,scaffold_balanced,1
+-3.7556240000000076,-3.659,CC12CCC3C(CCC4=CC(=O)CCC34C)C2CCC1O,ESOL,RF,scaffold_balanced,1
+-3.429966000000004,-3.692,CC(=O)OCC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C,ESOL,RF,scaffold_balanced,1
+-3.4049420000000046,-4.472,CC(=O)OCC(=O)C3CCC4C2CCC1=CC(=O)CCC1(C)C2CCC34C ,ESOL,RF,scaffold_balanced,1
+-3.5767900000000092,-4.073,CC1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,ESOL,RF,scaffold_balanced,1
+-3.2540240000000074,-3.0660000000000003,CC13CCC(=O)C=C1CCC4C2CCC(C(=O)CO)C2(CC(O)C34)C=O ,ESOL,RF,scaffold_balanced,1
+-4.199394000000004,-3.858,CC12CCC(=O)C=C1CCC3C2CCC4(C)C3CCC4(O)C#C ,ESOL,RF,scaffold_balanced,1
+-3.9492060000000007,-4.2410000000000005,CC(=O)OC3(CCC4C2CCC1=CC(=O)CCC1C2CCC34C)C#C,ESOL,RF,scaffold_balanced,1
+-3.444462000000007,-3.876,CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C,ESOL,RF,scaffold_balanced,1
+-3.7769620000000135,-4.345,CC2Cc1ccccc1N2NC(=O)c3ccc(Cl)c(c3)S(N)(=O)=O ,ESOL,RF,scaffold_balanced,1
+-4.21986800000001,-2.184,CCC2NC(=O)c1cc(c(Cl)cc1N2)S(N)(=O)=O,ESOL,RF,scaffold_balanced,1
+-1.9516517999999998,-3.715,C1CCC2CCCCC2C1,ESOL,RF,scaffold_balanced,1
+-2.507841999999994,-4.238,OC(C1=CC2C5C(C1C2=C(c3ccccc3)c4ccccn4)C(=O)NC5=O)(c6ccccc6)c7ccccn7 ,ESOL,RF,scaffold_balanced,1
+-2.2637000000000005,-2.599,C1CCC=CCC1,ESOL,RF,scaffold_balanced,1
+-2.1257079999999955,-0.892,Nc1ncnc2n(ccc12)C3OC(CO)C(O)C3O ,ESOL,RF,scaffold_balanced,1
+-0.22145599999999957,1.071,OCC1OC(OC2C(O)C(O)C(O)OC2CO)C(O)C(O)C1O,ESOL,RF,scaffold_balanced,1
+-3.322009999999997,-2.49,CCNc1nc(Cl)nc(NC(C)(C)C#N)n1,ESOL,RF,scaffold_balanced,1
+-2.9854359999999973,-3.233,CCNc1nc(Cl)nc(n1)N(CC)CC,ESOL,RF,scaffold_balanced,1
+-2.2168819999999987,-3.259,COCCCNc1nc(NC(C)C)nc(SC)n1,ESOL,RF,scaffold_balanced,1
+-2.6912539999999963,-3.663,CCN(CC)c1nc(Cl)nc(n1)N(CC)CC,ESOL,RF,scaffold_balanced,1
+-2.830928000000006,-3.75,CCNc1nc(NC(C)(C)C)nc(SC)n1,ESOL,RF,scaffold_balanced,1
+-1.4709319999999984,-2.492,CN(C)c1nc(nc(n1)N(C)C)N(C)C,ESOL,RF,scaffold_balanced,1
+-2.029234000000001,-3.693,CSc1nc(NC(C)C)nc(NC(C)C)n1,ESOL,RF,scaffold_balanced,1
+-3.299437999999997,-3.069,CCNc1nc(Cl)nc(NC(C)C)n1,ESOL,RF,scaffold_balanced,1
+-3.303257999999996,-2.8110000000000004,CCNc1nc(Cl)nc(NCC)n1 ,ESOL,RF,scaffold_balanced,1
+-1.6235380000000013,-2.689,CSc1nc(nc(n1)N(C)C)N(C)C,ESOL,RF,scaffold_balanced,1
+-2.493817999999999,-3.505,CCNc1nc(NC(C)(C)C)nc(OC)n1,ESOL,RF,scaffold_balanced,1
+-2.789975999999997,-3.497,CCN(CC)c1nc(Cl)nc(NC(C)C)n1,ESOL,RF,scaffold_balanced,1
+-2.6037560000000046,-3.43,CCNc1nc(NC(C)C)nc(SC)n1,ESOL,RF,scaffold_balanced,1
+-2.320726000000001,-3.185,CCNc1nc(NC(C)C)nc(OC)n1,ESOL,RF,scaffold_balanced,1
+-2.921061999999999,-3.329,CC(C)Nc1nc(Cl)nc(NC(C)C)n1,ESOL,RF,scaffold_balanced,1
+-1.67099,-3.448,COc1nc(NC(C)C)nc(NC(C)C)n1,ESOL,RF,scaffold_balanced,1

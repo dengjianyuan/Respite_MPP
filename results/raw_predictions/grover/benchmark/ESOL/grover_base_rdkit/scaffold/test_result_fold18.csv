@@ -1,0 +1,115 @@
+preds,labels,SMILES,mol_prop,model_name,split_type,fold
+-4.179701366258887,-4.9030000000000005,c2ccc1nc(ccc1c2)c4ccc3ccccc3n4 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-6.467327065889526,-6.896,CCOc1ccc(cc1)C(C)(C)COCc3cccc(Oc2ccccc2)c3,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.9404696713041025,-2.0380000000000003,C1CCCC1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.1970168217806245,-3.8689999999999998,CCCCCC1CCCC1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.1089427570488253,-2.452,CC1CCCC1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.5775433021307133,-3.16,CCCC1CCCC1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.9776343825054767,-3.6010000000000004,Cn2c(=O)on(c1ccc(Cl)c(Cl)c1)c2=O,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.4044825344368053,-3.1519999999999997,Oc2cc(O)c1C(=O)CC(Oc1c2)c3ccc(O)c(O)c3,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.981086755132935,-4.692,Fc1cccc(F)c1C(=O)NC(=O)Nc2ccc(Cl)cc2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.268802871548031,-5.4620000000000015,Fc1cccc(F)c1C(=O)NC(=O)Nc2cc(Cl)c(F)c(Cl)c2F ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.807763363928602,-2.21,c2ccc1[nH]nnc1c2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-0.26587003580852286,-0.541,O=c2[nH]c(=O)c1[nH]c(=O)[nH]c1[nH]2 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-4.025598129954806,-3.464,CC12CC2(C)C(=O)N(C1=O)c3cc(Cl)cc(Cl)c3,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.2849606926412465,-2.9,CCCC1C(=O)N3N(C1=O)c2cc(C)ccc2N=C3N(C)C ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.3967327116003834,-1.4809999999999999,c1ccncc1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.9552031679157107,-2.0669999999999997,Cc1ccncc1C,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.4766941048528333,-3.833,Clc1cccc(n1)C(Cl)(Cl)Cl,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.9822282919615002,-2.0980000000000003,Cc1ccnc(C)c1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.9979136654451157,-2.051,CCc1ccccn1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-4.852536307997929,-4.9719999999999995,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.0107486994918802,-0.7170000000000001,c1nccc(C(=O)NN)c1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.056457427486674,-2.0980000000000003,Cc1cccc(C)n1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.3508949268574437,-1.655,Oc1ccncc1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.0375679725635976,-0.9640000000000001,NC(=O)c1cccnc1 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.6162219256482901,-1.655,Oc1ccccn1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.9945251171572942,-2.0669999999999997,Cc1cccnc1C,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.8741422122114961,-2.0980000000000003,Cc1cncc(C)c1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.6151008763464236,-1.621,COC(=O)c1cccnc1 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.706330134137229,-4.2010000000000005,o1c2ccccc2c3ccccc13,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.754875177419615,-6.007999999999999,ClC(Cl)C(c1ccc(Cl)cc1)c2ccccc2Cl ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.825957999962331,-6.007999999999999,ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.075055817066251,-5.8329999999999975,CC(C)OC(=O)C(O)(c1ccc(Br)cc1)c2ccc(Br)cc2 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.617683299843016,-5.537999999999999,COc1ccc(cc1)C(c2ccc(OC)cc2)C(Cl)(Cl)Cl,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.825957803820383,-6.007999999999999,ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-6.354954990370169,-6.638,Clc1ccc(cc1)C(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.418105671482695,-3.147,CN(C)C(=O)C(c1ccccc1)c2ccccc2 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.356367698094794,-6.268,OC(c1ccc(Cl)cc1)(c2ccc(Cl)cc2)C(Cl)(Cl)Cl,ESOL,grover_base_rdkit,scaffold_balanced,18
+-4.167341677568867,-4.9239999999999995,Oc1ccc(Cl)cc1Cc2cc(Cl)ccc2O,ESOL,grover_base_rdkit,scaffold_balanced,18
+-4.554936015067681,-5.093,c1ccc(Cl)cc1C(c2ccc(Cl)cc2)(O)C(=O)OC(C)C,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.826159092792796,-3.033,c1ccccc1C(O)c2ccccc2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.794630198774806,-4.09,C(c1ccccc1)c2ccccc2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.696488780813065,-2.885,Cc1occc1C(=O)Nc2ccccc2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.8465975081463482,-2.015,CC1=CC(=O)CC(C)(C)C1 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.356821752743385,-2.042,CC(=C)C1CC=C(C)C(=O)C1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.626214082959047,-2.3040000000000003,CN(C)C(=O)OC1=CC(=O)CC(C)(C)C1 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.263106679421381,-2.5789999999999997,CC12CCC(CC1)C(C)(C)O2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.263106679421381,-2.5789999999999997,CC12CCC(CC1)C(C)(C)O2 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.963274223702937,-2.418,OC(Cn1cncn1)(Cn2cncn2)c3ccc(F)cc3F ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.662229882144492,-6.15,CC1(C)C(C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2)C1(C)C,ESOL,grover_base_rdkit,scaffold_balanced,18
+-6.539133063793274,-6.905,CC1(C)C(C=C(Cl)C(F)(F)F)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-6.305049810058547,-6.775,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-6.379299344346278,-7.129,CC1(C)C(C=C(Cl)Cl)C1C(=O)OCc2cccc(Oc3ccccc3)c2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-6.792111455914144,-7.44,CC1(C)C(C=C(Br)Br)C1C(=O)OC(C#N)c2cccc(Oc3ccccc3)c2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-6.054005769825528,-6.763,CC(C)=CC3C(C(=O)OCc2cccc(Oc1ccccc1)c2)C3(C)C ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-6.442563360429315,-6.84,CC1(C)C(C=C(Cl)Cl)C1C(=O)OC(C#N)c2ccc(F)c(Oc3ccccc3)c2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.636288972443063,-2.7310000000000003,Oc1ccc(c(O)c1)c3oc2cc(O)cc(O)c2c(=O)c3O ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.64311310335749,-5.04,CCOP(=S)(OCC)Oc2ccc1oc(=O)c(Cl)c(C)c1c2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.7916145163294916,-4.0760000000000005,c1cc2ccc(OC)c(CC=C(C)(C))c2oc1=O ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-4.297682316913607,-4.1080000000000005,OC(c1ccc(Cl)cc1)(c2cncnc2)c3ccccc3Cl,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.607400637694106,-1.844,O=C2NC(=O)C1(CCCCCC1)C(=O)N2 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.003162125098233,-0.67,Nc2nc1[nH]cnc1c(=O)[nH]2 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.676266182896301,-4.227,CCN2c1ccccc1N(C)C(=S)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-6.072372894088563,-6.0070000000000014,c1ccc2c(c1)c3cccc4ccc5cccc2c5c43,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.0238708946568553,-1.944,O=C1N(C2CCC(=O)NC2=O)C(=O)c3ccccc13,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.8820185956396474,-3.927,CC34CCc1c(ccc2cc(O)ccc12)C3CCC4=O,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.8335316640626713,-2.83,CC1=C(CCCO1)C(=O)Nc2ccccc2 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.4082823433533886,-3.492,N(Nc1ccccc1)c2ccccc2 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.5986806570558896,-0.825,c1c(OC)c(OC)C2C(=O)OCC2c1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-0.9463043011678101,-0.8340000000000001,OCC1OC(C(O)C1O)n2cnc3c(O)ncnc23,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.0443185012121647,-2.9019999999999997,CCCCNC(=O)n1c(NC(=O)OC)nc2ccccc12,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.556396581427536,-4.228,CCN2c1cc(OC)cc(C)c1NC(=O)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.775330517621609,-4.423,CCN2c1cc(Cl)ccc1NC(=O)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.7479378235658998,-4.408,CCN2c1cc(N(C)C)cc(C)c1NC(=O)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.318604577675428,-3.471,CCN2c1ccccc1N(C)C(=O)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.140280057160564,-0.892,Nc1ncnc2n(ccc12)C3OC(CO)C(O)C3O ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-4.394772581006665,-4.1560000000000015,OC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.30609180950209,-5.26,ClC1C=CC2C1C3(Cl)C(=C(Cl)C2(Cl)C3(Cl)Cl)Cl,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.0463284751276705,-5.152,ClC2=C(Cl)C3(Cl)C1C=CCC1C2(Cl)C3(Cl)Cl ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.664554056846489,-3.715,C1CCC2CCCCC2C1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.348832709033382,-5.568,c1ccc2c(c1)c3ccccc3c4ccccc24,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.3302368202636377,-3.063,CCCC(C)C1(CC=C)C(=O)NC(=S)NC1=O ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.2727106916820405,-2.96,CCCC(C)C1(CC)C(=O)NC(=S)NC1=O ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.1140715701138686,-0.636,c1cC2C(=O)NC(=O)C2cc1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.7452032032247538,-1.72,C1CC=CC1,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.7811069960512507,-3.872,CC12CCC3C(CCc4cc(O)ccc34)C2CCC1=O,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.729078971440075,-4.007,CCN2c1ccccc1N(C)C(=O)c3ccccc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.9816853389271705,-2.7939999999999996,CCN2c1ncccc1N(C)C(=O)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.0340291888506985,-3.335,CCN2c1nc(N(C)(CCO))ccc1NC(=O)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.5117753180794873,-3.446,CCN2c1nc(Cl)ccc1N(C)C(=O)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.26879075047593,-3.125,CCN2c1ncccc1N(CC)C(=O)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.197721142996938,-3.891,CCN2c1nc(C)cc(C)c1NC(=O)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.8482684507053193,-4.45,CCN2c1nc(C)cc(C(F)(F)F)c1NC(=O)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.282146296216305,-2.3209999999999997,O=C(Cn1ccnc1N(=O)=O)NCc2ccccc2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-6.183248406547252,-6.0070000000000014,c1ccc2c(c1)cc3ccc4cccc5ccc2c3c45,ESOL,grover_base_rdkit,scaffold_balanced,18
+-6.304039679028085,-4.238,OC(C1=CC2C5C(C1C2=C(c3ccccc3)c4ccccn4)C(=O)NC5=O)(c6ccccc6)c7ccccn7 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.953902120124229,-2.7710000000000004,O2c1ccccc1N(C)C(=O)c3cccnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.8385558002107194,-3.049,O2c1cc(C)ccc1N(C)C(=O)c3cc(N)cnc23 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.1444896556413018,-0.978,C1CCOCC1,ESOL,grover_base_rdkit,scaffold_balanced,18
+0.7617943194981156,0.501,OCC1OC(O)C(O)C(O)C1O,ESOL,grover_base_rdkit,scaffold_balanced,18
+0.7299086999182696,0.601,C1OC(O)C(O)C(O)C1O,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.939059832155462,-3.359,CCOC(=O)c1cncn1C(C)c2ccccc2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.530366926801622,-4.118,COC(=O)Nc2nc1ccc(cc1[nH]2)C(=O)c3ccccc3,ESOL,grover_base_rdkit,scaffold_balanced,18
+-2.2716650589590506,-2.024,CC(=O)N(S(=O)c1ccc(N)cc1)c2onc(C)c2C ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-4.150976574165626,-4.034,N(=Nc1ccccc1)c2ccccc2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.6368354239092513,-3.555,CC34CCC1C(=CCc2cc(O)ccc12)C3CCC4=O,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.5541203448180774,-1.493,COC(=O)c1ccccc1OC2OC(COC3OCC(O)C(O)C3O)C(O)C(O)C2O,ESOL,grover_base_rdkit,scaffold_balanced,18
+-4.655787497149119,-3.842,CC(=O)SC4CC1=CC(=O)CCC1(C)C5CCC2(C)C(CCC23CCC(=O)O3)C45,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.2859800913787365,-3.611,O=C(Nc1ccccc1)Nc2ccccc2,ESOL,grover_base_rdkit,scaffold_balanced,18
+-4.682638545216358,-3.739,CCCCC1C(=O)N(N(C1=O)c2ccc(O)cc2)c3ccccc3 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-4.819927316915103,-4.0760000000000005,CCCCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3 ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-4.140255063022486,-2.645,CC(=O)CCC1C(=O)N(N(C1=O)c2ccccc2)c3ccccc3,ESOL,grover_base_rdkit,scaffold_balanced,18
+-5.02625413135218,-4.249,Cn2cc(c1ccccc1)c(=O)c(c2)c3cccc(c3)C(F)(F)F,ESOL,grover_base_rdkit,scaffold_balanced,18
+-3.7658999147070107,-3.8819999999999997,CC34CCC1C(CCC2CC(=O)CCC12C)C3CCC4O ,ESOL,grover_base_rdkit,scaffold_balanced,18
+-1.812907284577031,-2.324,CSc1nnc(c(=O)n1N)C(C)(C)C,ESOL,grover_base_rdkit,scaffold_balanced,18
