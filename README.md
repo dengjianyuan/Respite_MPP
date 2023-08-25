@@ -12,7 +12,7 @@ Based on extensive experiments and evaluation, our central thesis is that **_"a 
   <img width="800" height="200" src="/images/respite22.png">
 </p>
 
-This repository provides code (directory `src`), data (directory `data`) and results (directory `results`) together with notebooks (directory `notebooks`) used for data processing and results analysis. (Due to size limit, the exact data split files and raw prediction results are not attached in the repository, which are available upon request.)
+This repository provides code (directory `src`), data  `data.zip`) and results (directory `results`) together with notebooks (directory `notebooks`) used for data processing and results analysis. (Due to size limit, the exact data split files and raw prediction results are not attached in the repository, which are available upon request.)
 
 
 **Note** <br>
